@@ -7,7 +7,7 @@ public class Manager extends Employee {
     }
 
     public Manager(String firstName, String lastName, String title, double salary) {
-        super(firstName, lastName, title, salary);
+      super(firstName, lastName, title, salary);
     }
 
     public Employee hireEmployee(String first, String last, String title, double salary) {
